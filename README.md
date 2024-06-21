@@ -1,6 +1,9 @@
 # Manipulação de produtos
 Exercício de manipulação de produtos.
 
+
+## Como rodar o exercício?
+
 1. Para rodar a API, utilize o comando:
 
 ```

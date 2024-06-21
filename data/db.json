@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": "3067",
+      "name": "mouse gamer",
+      "price": "46.90"
+    },
+    {
+      "id": "f580",
+      "name": "Mesa gamer",
+      "price": "112.85"
+    },
+    {
+      "id": "9124",
+      "name": "Monitor gamer",
+      "price": "1938.76"
+    }
+  ]
+}

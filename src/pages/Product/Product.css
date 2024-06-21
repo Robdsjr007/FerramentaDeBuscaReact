@@ -1,0 +1,17 @@
+.card {
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.id {
+    margin: 0;
+}
+
+.productName {
+    margin: 0;
+}
+
+.productPrice {
+    color: green;
+}
+

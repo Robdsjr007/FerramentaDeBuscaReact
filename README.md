@@ -1,8 +1,17 @@
 # Manipulação de produtos
 Exercício de manipulação de produtos.
 
-### Para testar, utilize o comando npm run server, para rodar o json-server e consequentemente ter acesso aos dados da API.
-|
-|
-|
-### Depois é só rodar o React + Vite com npm run dev e pronto!
+1. Para rodar a API, utilize o comando:
+
+```
+$ npm run server 
+```
+o comando serve para rodar o json-server e consequentemente ter acesso aos dados da API. **Dica: abra mais de um terminal, para executar o próximo comando**
+
+2. Para rodar o projeto apenas dê o seguinte comando em outro terminal:
+
+```
+$ npm run dev 
+```
+e pronto! Está rodando, agora é só testar.
+
